@@ -1,3 +1,16 @@
+# Shopping_Cart_App Using React
+
+This project consists of normal functionality like add to cart , remove from cart.
+
+## Concepts used in making this are:
+
+- React router dom.
+- React faker(npm package), it reduces the work of manually creating data for products.
+- React hooks like useState, useEffect, useContext.
+- Context api.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
